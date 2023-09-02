@@ -13,3 +13,8 @@
     padding: 10px;
     margin: 10px;
 }
+
+.italic{
+    font-style: italic;
+    text-align: right;
+}
